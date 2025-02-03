@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Mbui</h1>
-<h3 align="center">A Passionate Web Developer skilled in python django developer</h3>
+<h3 align="center">A Passionate Web Developer skilled in python django</h3>
 
 - 🔭 I’m currently working on [school portal](https://github.com/paulmbui20/school-portal-django)
 
