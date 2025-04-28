@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [school portal](https://github.com/paulmbui20/school-portal-django)
 
-- 🌱 I’m currently learning **React, Vue js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulmbui20](https://github.com/paulmbui20)
 
